@@ -1,1 +1,2 @@
+import system
 print("test")
