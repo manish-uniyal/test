@@ -1,2 +1,2 @@
-import system
+import os
 print("test")
